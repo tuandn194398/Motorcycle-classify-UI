@@ -1,0 +1,4 @@
+download 3 files below:
+ffprobe.exe
+ffplay.exe
+ffmpeg.exe

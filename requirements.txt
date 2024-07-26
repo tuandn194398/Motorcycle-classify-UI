@@ -1,0 +1,13 @@
+torch
+torchvision
+PyQT6
+pyinstaller==6.1.0
+pyqt6-tools
+ultralytics
+albumentations
+tensorflow
+timm
+polars
+transformers
+git+https://github.com/sberbank-ai/Real-ESRGAN.git
+imageio[ffmpeg]
